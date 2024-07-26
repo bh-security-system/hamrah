@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://app.phmbot.lol//api_post.php",
-      "get": "https://app.phmbot.lol/api_get.php",
-      "server": "app.phmbot.lol/server_none.png",
-      "user": "app.phmbot.lol/user_ban.png"
+      "post": "https://app.hamrahapp.top//api_post.php",
+      "get": "https://app.hamrahapp.top/api_get.php",
+      "server": "https://app.hamrahapp.top/server_none.png",
+      "user": "https://app.hamrahapp.top/user_ban.png"
     }
   ]
 }
