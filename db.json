@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "http://ham.netprivate.top//api_post.php",
-      "get": "http://ham.netprivate.top/api_get.php",
-      "server": "http://ham.netprivate.top/server_none.png",
-      "user": "http://ham.netprivate.top/user_ban.png"
+      "post": "https://ham.netprivate.top//api_post.php",
+      "get": "https://ham.netprivate.top/api_get.php",
+      "server": "https://ham.netprivate.top/server_none.png",
+      "user": "https://ham.netprivate.top/user_ban.png"
     }
   ]
 }
