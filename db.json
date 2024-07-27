@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://app.hamrahapp.top//api_post.php",
-      "get": "https://app.hamrahapp.top/api_get.php",
-      "server": "https://app.hamrahapp.top/server_none.png",
-      "user": "https://app.hamrahapp.top/user_ban.png"
+      "post": "https://ham.netprivate.top//api_post.php",
+      "get": "https://ham.netprivate.top/api_get.php",
+      "server": "https://ham.netprivate.top/server_none.png",
+      "user": "https://ham.netprivate.top/user_ban.png"
     }
   ]
 }
